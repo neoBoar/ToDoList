@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ToDo
+comment0.text=\r\n\ ToDo\ abstract\ class\ holding\ abstract\ methods\ to\ be\ excecuted\ by\ the\ Main(GUI)\ class.\r\n
+comment1.params=index
+comment1.target=void\ checkIndex(int)
+comment2.params=index
+comment2.target=java.lang.Object\ get(int)
+comment3.params=theElement
+comment3.target=int\ indexOf(java.lang.Object)
+comment4.params=index
+comment4.target=java.lang.Object\ remove(int)
+comment5.params=
+comment5.target=java.lang.String\ outputList()
+comment6.params=
+comment6.target=void\ printTasks()
+comment7.params=
+comment7.target=boolean\ isEmpty()
+comment8.params=
+comment8.target=int\ size()
+comment9.params=filePath
+comment9.target=void\ readItemData(java.lang.String)
+numComments=10

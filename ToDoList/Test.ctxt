@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Test
+comment0.text=\r\n\ Test\ Class\r\n\ Creates\ new\ Array\r\n\ Reads\ in\ "tasks.txt"\r\n\ completes\ the\ task\ with\ the\ index\ of\ 2\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=Test()
+numComments=3

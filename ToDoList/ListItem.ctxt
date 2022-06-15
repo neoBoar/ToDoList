@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ListItem
+comment0.text=\r\n\ Class\ created\ to\ hold\ the\ information\ of\ the\ object\ that\ will\ be\ added\ to\ the\ array\r\n
+comment1.params=newName\ newDueDate
+comment1.target=ListItem(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ListItem\r\n
+comment2.params=
+comment2.target=ListItem()
+comment2.text=\r\n\ Default\ constructor\ with\ set\ values\r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\n\ getter\ method\ to\ return\ name\r\n
+comment4.params=
+comment4.target=java.lang.String\ getDueDate()
+comment4.text=\r\n\ getter\ method\ to\ return\ dueDate\r\n
+comment5.params=
+comment5.target=boolean\ getComplete()
+comment5.text=\r\n\ getter\ method\ to\ return\ complete\r\n
+comment6.params=
+comment6.target=boolean\ setCompleteTrue()
+comment6.text=\r\n\ method\ to\ set\ complete\ to\ true\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ toString\ method\ to\ format\ the\ object\ data\ appropriatly.\r\n
+numComments=8
